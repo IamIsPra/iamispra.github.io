@@ -1,0 +1,54 @@
+# Site Settings
+baseurl: ""
+url : "https://iamispra.github.io"
+
+# Blog Settings
+theme_settings :
+  title : Grape Theme
+  favicon : assets/favicon.ico
+
+  # Profile Settings
+  profile :
+    image : assets/img/smile.png
+    username : Isuru Prabath
+    description : Hello World, I am Isuru Prabath. A Self taught Game Developer and a Programmer. 
+    experience :
+      - start : 2015-08-00
+        end : 2018-07-20
+        experience : Indie Game Developer
+      - start : 2018-07-20
+        end : Present
+        experience : Four Corners Software, Software Engineer 
+    skills : 
+      - skill : Android (Java)
+        value : 85  # Percent value
+      - skill : Unity
+        value : 85  # Percent value
+        
+  # Icons
+  icons :
+    email:  "hello@isuru.info"
+    linkedin:  # Full URL 
+    github: IamIsPra
+    gitlab: 
+    bitbucket: 
+    google_plus:
+    twitter: IamIsPra
+    youtube:
+    facebook: isuru.prabath
+    instagram: IamIsPra
+
+  # Disqus
+  disqus_shortname :
+
+# Pagination
+paginate: 5
+paginate_path: "blog/page:num"
+
+# Build Ssttings
+sass:
+  sass_dir: _sass
+  style: :compressed
+gems: [jekyll-paginate]
+bootstrap:
+  assets: true
