@@ -39,7 +39,7 @@ theme_settings :
     instagram: IamIsPra
 
   # Disqus
-  disqus_shortname :
+  disqus_shortname : isuruprabath
 
 # Pagination
 paginate: 5
