@@ -9,7 +9,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
+    image : assets/img/isuru_prabath.jpg
     username : Isuru Prabath
     description : Hello World, I am Isuru Prabath. A Self taught Game Developer and a Programmer. 
     experience :
