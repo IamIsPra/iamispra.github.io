@@ -15,8 +15,16 @@
   background-color: #eee !important;
 }
 
+[data-theme="dark"] .btn-nav{
+  color: #eee !important;
+}
+
+[data-theme="dark"] .meta{
+  color: #eee !important;
+}
+
 .custom-control.border-switch {
-  --color: #4cd964;
+  --color: #8b51a3;
   padding-left: 0;
 }
 .custom-control.border-switch .border-switch-control-input {
