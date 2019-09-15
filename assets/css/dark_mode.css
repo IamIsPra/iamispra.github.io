@@ -14,3 +14,16 @@
 [data-theme="dark"] .bg-black {
   background-color: #eee !important;
 }
+
+.custom-control-input{
+	display: inline-block;
+position: relative;
+margin: 0 10px;
+top: 4px;
+width: 32px;
+height: 20px;
+background: #fff;
+border-radius: 16px;
+transition: .3s;
+border: 2px solid #ccc;
+}
