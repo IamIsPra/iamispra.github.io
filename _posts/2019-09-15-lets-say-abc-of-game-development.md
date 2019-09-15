@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Game නිර්මාණයේ 'අ'යනු 'ආ'යනු කියවමු.
-subtitle : විඩියෝ ක්‍රීඩා නිර්මාණය යනු කුමක්ද?
+subtitle : විඩියෝ ක්‍රීඩා නිර්මාණය ගැන පොඩි හැදින්වීමක්
 tags: [Game Development, Tutorial, සිංහල]
 author: Isuru Prabath
 comments : True
