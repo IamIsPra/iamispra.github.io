@@ -15,15 +15,41 @@
   background-color: #eee !important;
 }
 
-.custom-control-input{
-	display: inline-block;
-position: relative;
-margin: 0 10px;
-top: 4px;
-width: 32px;
-height: 20px;
-background: #fff;
-border-radius: 16px;
-transition: .3s;
-border: 2px solid #ccc;
+.custom-control.border-switch {
+  --color: #4cd964;
+  padding-left: 0;
+}
+.custom-control.border-switch .border-switch-control-input {
+  display: none;
+}
+.custom-control.border-switch .border-switch-control-input:checked ~ .border-switch-control-indicator {
+  border-color: var(--color);
+}
+.custom-control.border-switch .border-switch-control-input:checked ~ .border-switch-control-indicator::after {
+  left: 14px;
+  background-color: var(--color);
+}
+.custom-control.border-switch .border-switch-control-indicator {
+  display: inline-block;
+  position: relative;
+  margin: 0 10px;
+  top: 4px;
+  width: 32px;
+  height: 20px;
+  background: #fff;
+  border-radius: 16px;
+  transition: .3s;
+  border: 2px solid #ccc;
+}
+.custom-control.border-switch .border-switch-control-indicator::after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  transition: .3s;
+  top: 2px;
+  left: 2px;
+  background: #ccc;
 }
