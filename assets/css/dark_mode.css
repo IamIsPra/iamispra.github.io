@@ -3,6 +3,10 @@
   color: #eee;
 }
 
+[data-theme="dark"] body{
+  color: #eee !important;
+}
+
 [data-theme="dark"] .bg-light {
   background-color: #333 !important;
 }
