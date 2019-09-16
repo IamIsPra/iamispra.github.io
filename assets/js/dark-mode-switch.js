@@ -22,6 +22,7 @@
         document.body.removeAttribute("data-theme");
         localStorage.removeItem("darkSwitch");
       }
+	  location.reload(); 
     }
   }
 })();
