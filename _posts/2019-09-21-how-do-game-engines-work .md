@@ -13,13 +13,13 @@ Game Engine එකක් කියන්නෙ game එකක් ලේසිය
 
 
 
-**Game එකක් හදන්න game engine එකක් ඕනෙමද?**<br/>
+**Game එකක් හදන්න game engine එකක් ඕනෙමද?**<br/><br/>
 
 ඔයාලට මෙහෙම ප්‍රශ්නයක් තියෙන්නත් පුලුවන්. ඇත්තටම ඕනේ නෑ. Game engine එකක් නැතුව උනත් game එකක් හදන්න පුලුවන්.<br/><br/>
 
 
 
-**එහෙනම් මොකටද game engine?**<br/>
+**එහෙනම් මොකටද game engine?**<br/><br/>
 
 අඬුව තියෙද්දි අත පුච්චගන්න ඕනේ නැති නිසා. Game engine එකක් නැතුව game එකක් හදනවා කියන්නෙ ලොකු කාලයක්, ශ්‍රමයක් යන වැඩක්. ඇත්තම කිව්වොත් එක game එකකට අලුතෙන් game engine එකක් හදන්න වෙන එක තමයි වෙන්නෙ. <br/><br/>
 
@@ -31,15 +31,15 @@ Game Engine එකක් කියන්නෙ game එකක් ලේසිය
 
 
 
-**1) Unity2D**<br/>
+**1) Unity2D**<br/><br/>
 
 Unity2D කියන්නෙ වෙනම game engine එකක් නෙවෙයි Unity කියන game engine එකම 2D games හදන්න පාවිච්චි කරද්දි තමයි අපි Unity2D කියලා කියන්නෙ. 3D හදද්දි Unity3D කියලා කියනවා.
 
 Unity game engine එක නොමිලේ download කරගන්න පුලුවන් [unity.com](https://www.unity.com) වෙබ් අඩවියෙන්. මේ game engine එක ප්‍රශ්නයක් නැතුව run කරන්න අඩුම වශයෙන් i5 processor එකක්, 4GB ram එකක් වගේම 1GB වත් vram  එකක් තියෙන්න ඕනේ. (මේ latest version එකටනම් නෙවෙයි. Unity 2019 පාවිච්චි කරන්න ටිකක් වැඩි පහසුකම් ඕන වෙනවා. මම ඒ ඇයි කියලා ඉස්සරහට පැහැදිලි කරන්නම්)
 
-Unity game engine එක scripting වලට Javascript, C# හෝ Boo කියන පරිගණක බාසාවන් බාවිතා වෙනවා. Unity පහසුවෙන් ඉගෙනගන්න පුලුවන් ඒ වගේම ක්ශේත්‍රයේ හොඳ ඉල්ලුමක් තියන game engine එකක්.<br/>
+Unity game engine එක scripting වලට Javascript, C# හෝ Boo කියන පරිගණක බාසාවන් බාවිතා වෙනවා. Unity පහසුවෙන් ඉගෙනගන්න පුලුවන් ඒ වගේම ක්ශේත්‍රයේ හොඳ ඉල්ලුමක් තියන game engine එකක්.<br/><br/><br/>
 
-**2) Construct 3**<br/>
+**2) Construct 3**<br/><br/>
 
 [Construct 3](https://www.construct.net/en) game engine එකක් කියලා වගේම 2D game editor එකක් කියලත් හදුන්වනවා. මේක web based application එකක් ඒ නිසා පරිගණකයේ install කරන්නෙ නැතුව web browser එකෙන් පාවිච්චි කරන්න පුලුවන්. ඒ නිසා ඕනෙම පරිගණකයක පාවිච්චි කරන්න පුලුවන් game engine එකක් තමයි Construct කියන්නෙ. මේකෙනම් නොමිලේ දෙන්නෙ ට්‍රයල් එකක් විතරයි. 
 
@@ -47,29 +47,29 @@ Unity game engine එක scripting වලට Javascript, C# හෝ Boo කිය
 
 Construct 3 වල පරණ version එක තියනවා [Construct 2](https://www.scirra.com/construct2/) කියලා ඒක computer එකේ install කරගෙන බාවිතාකරන්න පුලුවන් software එකක්. Scirra ආයතනයනම් කියන්නෙ Construct 2 මිළදීගන්නවට වඩා Construct 3 පාවිච්චිකරන්න කියලා.
 
-Game logics ඉගෙනගන්න වගේම විනෝදාංශයක් විදිහට game හදනවනම් Construct හොඳයි. <br/>
+Game logics ඉගෙනගන්න වගේම විනෝදාංශයක් විදිහට game හදනවනම් Construct හොඳයි. <br/><br/><br/>
 
 
 
-**3) Game Maker Studio 2**<br/>
+**3) Game Maker Studio 2**<br/><br/>
 
-[Game Maker Studio 2](https://www.yoyogames.com/get) මේක 30 day free trial version එකක් එක්ක එන්නෙ. ඊට පස්සෙ සල්ලි දීලා ගන්න වෙනවා. මේකත් ඉගෙනගන්න ලේසියි. පාවිච්චි වෙන්නෙ Java/ C# වලට සමානකම් තියන GameMaker Language (GML) කියලා ඔවුන්ගේම බාසාවක්. මේකත් දැන් තියන ඕනම පරිගණකයක install කරගන්න පුලුවන්.<br/>
+[Game Maker Studio 2](https://www.yoyogames.com/get) මේක 30 day free trial version එකක් එක්ක එන්නෙ. ඊට පස්සෙ සල්ලි දීලා ගන්න වෙනවා. මේකත් ඉගෙනගන්න ලේසියි. පාවිච්චි වෙන්නෙ Java/ C# වලට සමානකම් තියන GameMaker Language (GML) කියලා ඔවුන්ගේම බාසාවක්. මේකත් දැන් තියන ඕනම පරිගණකයක install කරගන්න පුලුවන්.<br/><br/><br/>
 
 
 
-**4) Godot**<br/>
+**4) Godot**<br/><br/>
 
 [Godot Game Engine](https://godotengine.org/) එක නොමිලේ පාවිච්චි කරන්න පුළුවන් වගේම. Open source project එකක්. Lightweight software එකක් 22MB Standard version එක හෝ C# support කරන 45MB වෙච්ච Mono version එක download කරගෙන run කරන්න විතරයි තියෙන්නෙ.
 
-පාවිච්චි කරන පරිගණක බාසාවන් වෙන්නෙ python වලට හුරු GDScript හෝ C++ හෝ C#. Gadot වල හොඳ active community එකක් ඉන්නවා වගේම ඔවුන් තමයි මේ game engine එක සංවර්ධනය කරන්න වියදම් දරන්නෙත්. Programming ගැන දැනුමක් තියන කෙනෙක්ට try කරලා බලනවනම් Godot මරු.<br/>
+පාවිච්චි කරන පරිගණක බාසාවන් වෙන්නෙ python වලට හුරු GDScript හෝ C++ හෝ C#. Gadot වල හොඳ active community එකක් ඉන්නවා වගේම ඔවුන් තමයි මේ game engine එක සංවර්ධනය කරන්න වියදම් දරන්නෙත්. Programming ගැන දැනුමක් තියන කෙනෙක්ට try කරලා බලනවනම් Godot මරු.<br/><br/><br/>
 
 
 
-**5) Corona**<br/>
+**5) Corona**<br/><br/>
 
 [Corona](https://coronalabs.com/) කියන්නෙත් නොමිලේ ලබාගන්න පුලුවන් game engine එකක්. Coronaත් ඉගෙන ගන්න ලේසියි. බාවිතා වෙන්නෙ Lua  කියන බාසාව. 
 
-ඉගෙනගන්න වගේම විනෝදාංශයක් විදිහට game හදනවනම් Corona ට්‍රයි කරලා බලන්න.<br/><br/>
+ඉගෙනගන්න වගේම විනෝදාංශයක් විදිහට game හදනවනම් Corona ට්‍රයි කරලා බලන්න.<br/><br<br/>
 
 
 
