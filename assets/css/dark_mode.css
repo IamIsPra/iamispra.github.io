@@ -97,11 +97,11 @@ li.awd {
 }
 
 li.awd::before{
-  content: "🏆";
-position: absolute;
-width: 15px;
-height: 25px;
-top: 42%;
-left: -12px;
-background-color: #fff;
+  content: "🏆" !important;
+  position: absolute !important;
+  width: 15px !important;
+  height: 25px !important;
+  top: 42% !important;
+  left: -12px !important;
+  background-color: #fff !important;
 }
