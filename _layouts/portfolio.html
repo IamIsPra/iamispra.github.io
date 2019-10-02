@@ -35,6 +35,17 @@ layout: page
         </li>
         {% endfor %}
       </ul>
+      <br/>
+      <br/>
+      <p class="title">AWARDS AND RECOGNITIONS</p>
+      <ul class="exper-list">
+        {% for awd in  profile.awards %}
+        <li class="meta">
+          <p class="date">{{ awd.date }}</p>
+          <p class="description">{{ awd.title }}</p>
+        </li>
+        {% endfor %}
+      </ul>
     </article>
     <article class="skills col-12 col-md-6">
       <p class="title">SKILLS</p>
