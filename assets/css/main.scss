@@ -2,13 +2,3 @@
 ---
 
 @import "grape-theme";
-
-li.meta::before{
-content: "🏆";
-position: absolute;
-width: 15px;
-height: 25px;
-top: 42%;
-left: -12px;
-background-color: #fff;
-}
