@@ -19,7 +19,7 @@ theme_settings :
       - start : 2018-07-20
         end : Present
         experience : Four Corners Software, Software Engineer
-    award :
+    awards :
       - date : 2015-04-00
         title : Mozilla App of the Month Winner
     skills : 
