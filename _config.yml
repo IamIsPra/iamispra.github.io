@@ -21,9 +21,21 @@ theme_settings :
         experience : Four Corners Software, Software Engineer 
     skills : 
       - skill : Android (Java)
+        value : 90  # Percent value
+      - skill : Android (Flutter)
+        value : 50  # Percent value
+      - skill : Unity Game Development
+        value : 80  # Percent value
+      - skill : Blender
+        value : 50 # Percent value
+      - skill : C#
+        value : 75  # Percent value
+      - skill : HTML, CSS & JS
         value : 85  # Percent value
-      - skill : Unity
+      - skill : PHP
         value : 85  # Percent value
+      - skill : JavaFX
+        value : 80  # Percent value
         
   # Icons
   icons :
