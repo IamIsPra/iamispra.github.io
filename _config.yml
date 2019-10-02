@@ -13,16 +13,20 @@ theme_settings :
     username : Isuru Prabath
     description : Hello World, I am Isuru Prabath. A Self taught Game Developer and a Programmer. 
     experience :
-      - start : 2015-08-00
+      - start : 2014-08-00
         end : 2018-07-20
-        experience : Indie Game Developer
+        experience : Indie Game Developer/ Freelance Mobile Developer
       - start : 2018-07-20
         end : Present
         experience : Four Corners Software, Software Engineer 
     skills : 
-      - skill : Android (Java)
+      - skill : Android (Java/ Kotlin)
         value : 90  # Percent value
       - skill : Android (Flutter)
+        value : 50  # Percent value  
+      - skill : Android (Xamarin)
+        value : 50  # Percent value
+      - skill : Android (React Native)
         value : 50  # Percent value
       - skill : Unity Game Development
         value : 80  # Percent value
@@ -36,6 +40,8 @@ theme_settings :
         value : 85  # Percent value
       - skill : JavaFX
         value : 80  # Percent value
+      - skill : Construct 2
+        value : 90 # Percent value
         
   # Icons
   icons :
