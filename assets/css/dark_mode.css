@@ -91,6 +91,11 @@ color: #eee !important;
   background: #ccc;
 }
 
+li.awd {
+    position: relative;
+    padding: 15px 0 15px 30px;
+}
+
 li.awd::before{
   content: "🏆";
 position: absolute;
